@@ -1,5 +1,5 @@
 # An efficient multi-robot path planning solution using A* and coevolutionary algorithms
-This repository contains the code used for the proposal and experimentation of the article entitled *An efficient multi-robot path planning solution using A* and coevolutionary algorithms*. The article is available for open reading both on the publisher's website ([https://doi.org/10.3233/ICA-220695](https://doi.org/10.3233/ICA-220695) and in the University of Oviedo Repository ([http://hdl.handle.net/10651/67799](http://hdl.handle.net/10651/67799)).
+This repository contains the code used for the proposal and experimentation of the article entitled *An efficient multi-robot path planning solution using A\* and coevolutionary algorithms*. The article is available for open reading both on the publisher's website ([https://doi.org/10.3233/ICA-220695](https://doi.org/10.3233/ICA-220695) and in the University of Oviedo Repository ([http://hdl.handle.net/10651/67799](http://hdl.handle.net/10651/67799)).
 
 ## Authors
 - Enol García González
