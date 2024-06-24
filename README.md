@@ -23,7 +23,7 @@ Multi-robot path planning has evolved from research to real applications in ware
 If you use this code in your research, please cite it as follows:
 
 ```
-García, Enol; Villar, Jose; Tan, Qing; Sedano, Javier; Chira, Camelia. ‘An Efficient Multi-robot Path Planning Solution Using A* and Coevolutionary Algorithms’. 1 Jan. 2023 : 41 – 52.
+García, Enol; Villar, Jose; Tan, Qing; Sedano, Javier; Chira, Camelia. ‘An Efficient Multi-robot Path Planning Solution Using A* and Coevolutionary Algorithms’. Integrated Computer-Aided Engineering, vol. 30, no. 1, pp. 41-52, 2023.
 ```
 
 Also, here you can find the citation in BibTex format:
